@@ -1,3 +1,3 @@
 def roll
-  return rand(1..6)
+  return [1..6].sample
 end
